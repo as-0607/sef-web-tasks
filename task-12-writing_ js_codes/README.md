@@ -28,4 +28,4 @@ The goal was to build a basic "Add to Cart" functionality where clicking on prod
 - This task introduced me to how JavaScript makes pages interactive and dynamic.
 
 ## 🔗 Live Preview:
-[View the login form](https://as-0607.github.io/sef-web-tasks/task-12-writing_ js_codes)
+[View the login form](https://as-0607.github.io/sef-web-tasks/task-12-writing_js_codes)
