@@ -1,0 +1,325 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1 {
+    width: 1200px;
+    height: 37px;
+    background-color: black;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.div2 {
+    width: 350px;
+    height: 490px;
+    margin-left: 168px;
+    background-color: rgb(255, 241, 249);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 15px;
+    float: left;
+}
+.h2_1 {
+    font-size: xx-large;
+}
+.h2_1:hover {
+    color: rgb(255, 187, 0);
+}
+.div3 {
+    width: 350px;
+    height: 160px;
+    background-color: rgb(255, 187, 0);
+    margin-top: 10px;
+    padding: 30px 125px;
+}
+.div3:hover {
+    background-color: rgb(11, 20, 69);
+}
+.div4 {
+    width: 100;
+    height: 100;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 13px;
+}
+.div4:hover {
+    background-color: rgb(255, 187, 0);
+}
+.p1 {
+    font-size: x-large;
+}
+.p1:hover {
+    color: white;
+}
+.p2 {
+    font-size: large;
+}
+.p2:hover {
+    color: white;
+}
+.p3_1 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+}
+.p3_1:hover {
+    background-color: rgb(11, 20, 69);
+    color: white;
+}
+.p3_2 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+}
+.p3_2:hover {
+    background-color: rgb(255, 187, 0);
+    color: white;
+}
+.p3_3 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+}
+.p3_3:hover {
+    background-color: rgb(11, 20, 69);
+    color: white;
+}
+.p3_4 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+}
+.p3_4:hover {
+    background-color: rgb(255, 187, 0);
+    color: white;
+}
+.btn1 {
+    width: 85px;
+    height: 40px;
+    font-size: large;
+    margin: 15px 110px 10px 110px;
+    border-radius: 10px;
+    background-color: rgb(255, 187, 0);
+}
+.btn1:hover {
+    background-color: rgb(11, 20, 69);
+    color: white;
+}
+.div5 {
+    width: 350px;
+    height: 490px;
+    margin: 0px 75px;
+    background-color: rgb(255, 241, 249);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 15px;
+    float: left;
+}
+.h2_2 {
+    font-size: xx-large;
+    color: rgb(25, 0, 137);
+}
+.h2_2:hover {
+    color: rgb(10, 133, 92);
+}
+.div6 {
+    width: 350px;
+    height: 160px;
+    background-color: rgb(11, 20, 69);
+    margin-top: 10px;
+    padding: 30px 125px;
+}
+.div6:hover {
+    background-color: rgb(6, 109, 183);
+}
+.div7 {
+    width: 100;
+    height: 100;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 13px;
+}
+.div7:hover {
+    background-color: rgb(41, 163, 204);
+}
+.p4 {
+    font-size: x-large;
+    color: rgb(25, 0, 137);
+}
+.p4:hover {
+    color: white;
+}
+.p5 {
+    font-size: large;
+    color: rgb(25, 0, 137);
+}
+.p5:hover {
+    color: white;
+}
+.p6_1 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(25, 0, 137);
+}
+.p6_1:hover {
+    background-color: rgb(41, 163, 204);
+    color: white;
+}
+.p6_2 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(25, 0, 137);
+}
+.p6_2:hover {
+    background-color: rgb(11, 20, 69);
+    color: white;
+}
+.p6_3 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(25, 0, 137);
+}
+.p6_3:hover {
+    background-color: rgb(41, 163, 204);
+    color: white;
+}
+.p6_4 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(25, 0, 137);
+}
+.p6_4:hover {
+    background-color: rgb(11, 20, 69);
+    color: white;
+}
+.btn2 {
+    width: 85px;
+    height: 40px;
+    font-size: large;
+    margin: 15px 110px 10px 110px;
+    border-radius: 10px;
+    background-color: rgb(35, 136, 169);
+    color: white;
+}
+.btn2:hover {
+    background-color: white;
+    color: rgb(11, 20, 69);
+}
+.div8 {
+    width: 350px;
+    height: 490px;
+    
+    background-color: rgb(255, 241, 249);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 15px;
+    float: left;
+}
+.h2_3 {
+    font-size: xx-large;
+    color: rgb(114, 0, 0);
+}
+.h2_3:hover {
+    color: rgb(10, 133, 92);
+}
+.div9 {
+    width: 350px;
+    height: 160px;
+    background-color: rgb(190, 39, 66);
+    margin-top: 10px;
+    padding: 30px 125px;
+}
+.div9:hover {
+    background-color: rgb(221, 121, 123);
+}
+.div10 {
+    width: 100;
+    height: 100;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 13px;
+}
+.div10:hover {
+    background-color: rgb(41, 163, 204);
+}
+.p7 {
+    font-size: x-large;
+    color: rgb(114, 0, 0);
+}
+.p7:hover {
+    color: white;
+}
+.p8 {
+    font-size: large;
+    color: rgb(114, 0, 0);
+}
+.p8:hover {
+    color: white;
+}
+.p9_1 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(114, 0, 0);
+}
+.p9_1:hover {
+    background-color: rgb(221, 121, 123);
+    color: white;
+}
+.p9_2 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(114, 0, 0);
+}
+.p9_2:hover {
+    background-color: rgb(122, 7, 68);
+    color: white;
+}
+.p9_3 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(114, 0, 0);
+}
+.p9_3:hover {
+    background-color: rgb(221, 121, 123);
+    color: white;
+}
+.p9_4 {
+    font-size: large;
+    height: 50px;
+    padding-top: 15px;
+    color: rgb(114, 0, 0);
+}
+.p9_4:hover {
+    background-color: rgb(122, 7, 68);
+    color: white;
+}
+.btn3 {
+    width: 85px;
+    height: 40px;
+    font-size: large;
+    margin: 15px 110px 10px 110px;
+    border-radius: 10px;
+    background-color: rgb(221, 121, 123);
+    color: white;
+}
+.btn3:hover {
+    background-color: white;
+    color: rgb(114, 0, 0);
+}
