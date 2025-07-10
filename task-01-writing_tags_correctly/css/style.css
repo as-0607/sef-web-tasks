@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(243, 243, 235);
+}
+.head1 {
+    width: 500px;
+    background-color: black;
+    color: white;
+}
+.head2_1 {
+    width: 500px;
+    background-color: rgb(1, 1, 84);
+    color: white;
+}
+p {
+    width: 600px;
+    background-color: rgb(247, 225, 238);
+    color: rgb(100, 12, 81);
+}
+img {
+    border: none;
+    border-radius: 10px;
+}
+.head2_2 {
+    width: 500px;
+    background-color: rgb(0, 46, 0);
+    color: white;
+}
+.label1 {
+    background-color: white;
+    color: rgb(100, 12, 81);
+}
+.label2 {
+    background-color: white;
+    color: rgb(100, 12, 81);
+}
+input {
+    border: 3px rgb(100, 12, 81) solid;
+    border-radius: 5px;
+}
+.btn1 {
+    width: 75px;
+    height: 30px;
+    border: 2px black solid;
+    border-radius: 20px;
+    background-color: rgb(80, 11, 145);
+    color: white;
+}
+.btn2 {
+    width: 75px;
+    height: 30px;
+    border: 2px black solid;
+    border-radius: 20px;
+    background-color: rgb(190, 2, 2);
+    color: white;
+}
+
