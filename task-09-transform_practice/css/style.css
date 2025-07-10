@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    perspective: 700px;
+    background-color: #434653;
+    padding-top: 50px;
+}
+
+section {
+    width: 60%;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 20%;
+}
+
+.parent , .front , .back {
+    width: 100% ;
+    height: 300px;
+    background-color: #3f4752;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 1px 1px 10px 0.1px #24262c;
+}
+
+.parent {
+    width: 30%;
+    transform-style: preserve-3d;
+    position: relative;
+    transition: 1s ;
+    float: left;
+}
+
+.parent:hover {
+    transform: rotateY(180deg);
+}
+
+.front , .back {
+    position: absolute;
+}
+
+.front {
+    z-index: 1;
+    backface-visibility: hidden ;
+}
+
+.back {
+    background: #1f242c;
+    transform: rotateY(180deg);
+}
+
+.front_img {
+    background-image: url(../images/images1.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px 15px 0 0;
+    width: 100%;
+    height: 53%;
+    position: absolute;
+}
+
+.front_img2 {
+    background-image: url(../images/Y9e1qauMBeRFYRa4cALlw.avif);
+}
+
+.front_img3 {
+    background-image: url(../images/wallpaper-acer-nitro-with-new-logo-v0-u1nulqskf5ac1.webp);
+}
+
+.front_img4 {
+    background-image: url(../images/Dell-headpic.jpg);
+}
+
+.front_img5 {
+    background-image: url(../images/wp13490013.jpg);
+}
+
+.front_img6 {
+    background-image: url(../images/download.jpg);
+}
+
+.front_img7 {
+    background-image: url(../images/images.jpg);
+}
+
+.front_img8 {
+    background-image: url(../images/gigabyte-aorus-logo-pc-gaming-hd-wallpaper-thumb.jpg);
+}
+
+.front_img9 {
+    background-image: url(../images/Alienware-Digital-Art-4K-Wallpaper-1081x608.jpg);
+}
+
+.front_content {
+    border-radius: 5px 5px 15px 15px;
+    width: 100%;
+    height: 48%;
+    background-color: #3f4752;
+    position: absolute;
+    top: 52%;
+    padding-top: 15px;
+}
+
+h2 {
+    color: white;
+    text-transform: uppercase;
+}
+
+.price {
+    color: #45edfc;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.back p {
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 22px;
+    color: #45edfc;
+}
