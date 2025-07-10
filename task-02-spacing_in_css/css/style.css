@@ -1,0 +1,67 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+.div1 {
+    width: 450px;
+    background-color: rgb(100, 13, 94);
+    border-radius: 10px;
+    margin: auto;
+}
+.p1 {
+    color: white;
+    text-align: center;
+}
+.div2 {
+    width: 900px;
+    background-color: rgb(100, 13, 94);
+    border-radius: 10px;
+    margin: auto;
+}
+hr {
+    background-color: rgb(100, 13, 94);
+    height: 2px;
+    width: 1200px;
+}
+.div3 {
+    height: 405px;
+    width: 1200px;
+    background-color: rgb(251, 255, 228);
+    margin: auto;
+}
+.div4 {
+    background-color: rgb(100, 13, 94);
+    height: 350px;
+    width: 1200px;
+    margin: auto;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
+.div5 {
+    background-color: rgb(253, 205, 213);
+    height: 240px;
+    width: 1200px;
+    margin: auto;
+}
+textarea {
+    display: block;
+    margin: auto;
+}
+.div6 {
+    margin: auto;
+    width: 440px;
+}
+input {
+    border: 2px rgb(100, 13, 94) solid;
+    border-radius: 10px;
+    height: 30;
+}
+button {
+    width: 90px;
+    color: white;
+    background-color: rgb(100, 13, 94);
+    height: 25px;
+    border-radius: 10px;
+}
