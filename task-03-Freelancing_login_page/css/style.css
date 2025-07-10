@@ -1,0 +1,83 @@
+body {
+    background-image: url(../pictures/WhatsApp\ Image\ 2025-02-19\ at\ 19.57.17_c6443805.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+}
+.div1 {
+    width: 1000px;
+    height: 500px;
+    background-image: url(../pictures/modern-black-office-workspace-desk-with-laptop-black-background_1322206-3615.avif);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    border-radius: 20px;
+}
+h1 {
+    color: rgb(0, 79, 0);
+    text-align: center;
+    background-color: white;
+}
+.div2 {
+    width: 700px;
+    height: 100px;
+    margin: auto;
+    background-color: white;
+}
+.p1 {
+    color: rgb(0, 134, 0);
+    text-align: center;
+}
+.h2_1 {
+    color: rgb(0, 79, 0);
+    text-align: center;
+    background-color: white;
+}
+.div3 {
+    width: 700px;
+    height: 250px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+.p2 {
+    text-align: center;
+    color: rgb(0, 79, 0);
+    text-align: center;
+}
+li {
+    color: rgb(0, 134, 0);
+}
+.div4 {
+    width: 1000px;
+    height: 400px;
+
+    background-image: url(../pictures/360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
+.div5 {
+    width: 700px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: white;
+    margin: auto;
+}
+.h2_2 {
+    color: rgb(0, 79, 0);
+    text-align: center;
+}
+.span3 {
+    color: rgb(0, 134, 0);
+}
+.h2_3 {
+    text-align: center;
+    color: rgb(0, 79, 0);
+}
+textarea {
+    display: block;
+    margin: auto;
+}
