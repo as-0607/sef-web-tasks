@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 600px;
+    background-image: url(../images/image-cache.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.header {
+    background-color: rgb(249, 247, 237);
+    width: 1000px;
+    height: 75px;
+    margin-left: 265px;
+    border-radius: 12px;
+    border: 1px rgb(221, 221, 221) solid;
+    padding: 0 20px;
+    line-height: 75px;
+    position: fixed;
+    top: 20px;
+}
+
+.logo {
+    width: 80px;
+    height: 50px;
+    vertical-align: middle;
+    margin-top: -2.5px;
+    margin-bottom: 2.5px;
+    
+}
+
+.outerSpan {
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(51, 150, 100);
+    vertical-align: middle;
+}
+
+.innerSpan {
+    color: rgb(234, 154, 5);
+}
+
+.list {
+    list-style-type: none;
+    float: right ;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.list li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.list li a {
+    color: rgb(51, 150, 100);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.list li a:hover {
+    color: rgb(0, 94, 255);
+}
+
+.parent {
+    width: 1380px;
+    height: 50px;
+    margin: 350px 60px 250px 60px;
+}
+
+.parent .div1 {
+    background-color: rgb(249, 247, 237);
+    width: 75px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    float: left;
+}
+
+.parent .div1:hover{
+    background-color: rgb(234, 154, 5);
+}
+
+.parent .div1 a {
+    display: block;
+    width: 75px;
+    line-height: 50px;
+    font-size: 23px;
+    text-decoration: none;
+    color: rgb(0, 51, 51);
+}
+
+.parent .div1 a:hover {
+    color: white;
+}
+
+.parent .div2 {
+    background-color: rgb(249, 247, 237);
+    width: 75px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    float: right;
+}
+
+.parent .div2:hover{
+    background-color: rgb(234, 154, 5);
+}
+
+.parent .div2 a {
+    display: block;
+    width: 75px;
+    line-height: 50px;
+    font-size: 23px;
+    text-decoration: none;
+    color: rgb(0, 51, 51);
+}
+
+.parent .div2 a:hover {
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 48px;
+    line-height: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: rgb(0, 51, 51);
+}
+
+mark {
+    background-color: rgb(243, 222, 172);
+}
+
+.div3 {
+    padding-top: 40px;
+    width: 340px;
+    height: 200px;
+    background-color: rgb(249, 247, 237);
+    margin-left: 200px;
+    float: left;
+    border-radius: 15px;
+}
+
+.div3:hover {
+    background-color: rgb(234, 154, 5);
+}
+
+.div4 {
+    padding-top: 40px;
+    width: 340px;
+    height: 200px;
+    background-color: rgb(249, 247, 237);
+    margin: 0px 49.5px;
+    float: left;
+    border-radius: 15px;
+}
+
+.div4:hover {
+    background-color: rgb(234, 154, 5);
+}
+
+.div5 {
+    padding-top: 40px;
+    width: 340px;
+    height: 200px;
+    background-color: rgb(249, 247, 237);
+    margin-right: 200px;
+    float: right;
+    border-radius: 15px;
+}
+
+.div5:hover {
+    background-color: rgb(234, 154, 5);
+}
+
+.div6 {
+    padding-top: 40px;
+    width: 340px;
+    height: 170px;
+    background-color: rgb(249, 247, 237);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.div6:hover {
+    background-color: rgb(234, 154, 5);
+}
+
+p {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+
+.div6 a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(0, 51, 51);
+}
+
+.div6 a:hover {
+    color: white;
+}
