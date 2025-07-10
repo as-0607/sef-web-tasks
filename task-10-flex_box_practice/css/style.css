@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 50px;
+    background-image: url(../images/vintage-old-map-empty-background-blank-treasure-map-on-old-paper-texture-backdrop-free-vector.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.container {
+    width: 85%;
+    height: 700px;
+    margin: auto;
+}
+
+.row {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.row2 {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.large-box {
+    width: 45%;
+    height: 90%;
+    background-color: black;
+    display: flex;
+}
+
+.large-box1 {
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-image: url(../images/download1.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.large-box2 {
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-image: url(../images/images.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.large-box3 {
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/images1.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.small-images {
+    width: 150px;
+    height: 75px;
+    background-color: blue;
+    border: 5px white solid;
+    text-align: center;
+    transition: 2s;
+}
+
+.small-images:hover {
+    transform: scale(1.05, 1.05);
+}
+
+.small-images1 {
+    background-image: url(../images/download2.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.small-images2 {
+    background-image: url(../images/download3.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.small-images3 {
+    background-image: url(../images/download.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+p {
+    font-size: 28px;
+    margin-top: 20px;
+    color: white;
+}
