@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    width: 1400px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(23, 0, 92);
+    color: white;
+    margin: 40px 67.5px 20px 67.5px;
+    border-radius: 20px;
+}
+
+img {
+    width: 261px;
+    height: 230px;
+    border-radius: 15px;
+}
+.img1 {
+    margin-left: 65.5;
+}
+.img2 {
+    margin: 0px 20px;
+}
+
+.div1 {
+    width: 1400px;
+    height: 430px;
+    margin: 30px 67.5px 0px 67.5px;
+    border-radius: 15px;
+    background-image: url(../images/Dark-Web-Monitoring.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 115px 300px;
+}
+
+.div2 {
+    width: 800px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: rgb(245, 222, 179);
+}
+
+.div2:hover {
+    background-color: rgb(23, 0, 92);
+}
+
+.p1 {
+    text-decoration: overline;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(23, 0, 92);
+}
+
+.p1:hover {
+    color: white;
+    font-weight: normal;
+}
+
+.h2_1 {
+    width: 1400px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(23, 0, 92);
+    color: white;
+    margin: 30px 67.5px 20px 67.5px;
+    border-radius: 20px;
+}
+
+.div3 {
+    width: 400px;
+    height: 550px;
+    margin-left: 67.5px;
+    float: left;
+}
+
+.div4 {
+    width: 400px;
+    height: 550px;
+    float: left;
+    margin: 0px 100px;
+}
+
+.div5 {
+    width: 400px;
+    height: 550px;
+    float: left;
+}
+
+.p2 {
+    margin: 10px;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: brown;
+    font-size: 18px;
+    font-weight: bold;
+    margin: auto;
+}
+
+button:hover {
+    color: rgb(23, 0, 92);
+    background-color: rgb(245, 222, 179);
+}
+
+.div6 {
+    width: 800px;
+    height: 55px;
+    border: 5px rgb(139, 69, 19) solid;
+    float: left;
+    margin: 50px 365px;
+    outline: 5px rgb(23, 0, 92) solid;
+    outline-offset: 10px;
+    padding: 10px 0px;
+}
+
+.div6:hover {
+    border: 5px rgb(23, 0, 92) solid;
+    outline: 5px rgb(139, 69, 19) solid;
+}
+
+.p3 {
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.p3:hover {
+    font-style: italic;
+}
